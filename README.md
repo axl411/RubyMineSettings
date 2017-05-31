@@ -1,0 +1,2 @@
+# RubyMineSettings
+My RubyMine settings.
