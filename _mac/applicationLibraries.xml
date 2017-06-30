@@ -804,6 +804,50 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.41.0/credentials_manager" />
       </SOURCES>
     </library>
+    <library name="fastlane (v2.43.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/gym" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/pem" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/scan" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/sigh" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/match" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/pilot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/supply" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/deliver" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/frameit" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/produce" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/fastlane" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/precheck" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/snapshot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/spaceship" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/screengrab" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/fastlane_core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/credentials_manager" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/gym" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/pem" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/scan" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/sigh" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/match" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/pilot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/supply" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/deliver" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/frameit" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/produce" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/fastlane" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/precheck" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/snapshot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/spaceship" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/screengrab" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/fastlane_core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.43.0/credentials_manager" />
+      </SOURCES>
+    </library>
     <library name="fourflusher (v2.0.1, RVM: ruby-2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fourflusher-2.0.1/bin" />
@@ -1918,6 +1962,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/slack-notifier-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="slack-notifier (v2.2.2, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/slack-notifier-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/slack-notifier-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="slop (v3.6.0, RVM: ruby-2.4.0) [gem]">
