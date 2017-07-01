@@ -1504,86 +1504,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/nokogiri-1.7.2/suppressions" />
       </SOURCES>
     </library>
-    <library name="NYPD (v0.1.0, RVM: ruby-2.4.0) [gem]">
+    <library name="NYPD (v0.2.11, RVM: ruby-2.4.0) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.1.0/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.11/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.11/.idea" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.1.0/.idea" />
-      </SOURCES>
-    </library>
-    <library name="NYPD (v0.2.0, RVM: ruby-2.4.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.0/.idea" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.0/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.0/.idea" />
-      </SOURCES>
-    </library>
-    <library name="NYPD (v0.2.10, RVM: ruby-2.4.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.10/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.10/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.10/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.10/.idea" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.10/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.10/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.10/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.10/.idea" />
-      </SOURCES>
-    </library>
-    <library name="NYPD (v0.2.6, RVM: ruby-2.4.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.6/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.6/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.6/.idea" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.6/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.6/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.6/.idea" />
-      </SOURCES>
-    </library>
-    <library name="NYPD (v0.2.8, RVM: ruby-2.4.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.8/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.8/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.8/.idea" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.8/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.8/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.8/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.8/.idea" />
-      </SOURCES>
-    </library>
-    <library name="NYPD (v0.2.9, RVM: ruby-2.4.0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.9/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.9/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.9/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.9/.idea" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.9/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.9/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.9/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.9/.idea" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.11/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.2.11/.idea" />
       </SOURCES>
     </library>
     <library name="openssl (v2.0.3, RVM: ruby-2.4.0) [gem]">
