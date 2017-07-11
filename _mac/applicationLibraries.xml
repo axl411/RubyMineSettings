@@ -950,6 +950,50 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.44.1/credentials_manager" />
       </SOURCES>
     </library>
+    <library name="fastlane (v2.45.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/gym" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/pem" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/scan" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/sigh" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/match" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/pilot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/supply" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/deliver" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/frameit" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/produce" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/fastlane" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/precheck" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/snapshot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/spaceship" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/screengrab" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/fastlane_core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/credentials_manager" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/gym" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/pem" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/scan" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/sigh" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/match" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/pilot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/supply" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/deliver" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/frameit" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/produce" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/fastlane" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/precheck" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/snapshot" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/spaceship" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/screengrab" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/fastlane_core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fastlane-2.45.0/credentials_manager" />
+      </SOURCES>
+    </library>
     <library name="fourflusher (v2.0.1, RVM: ruby-2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/fourflusher-2.0.1/bin" />
@@ -1476,6 +1520,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/mini_magick-4.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_magick (v4.8.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/mini_magick-4.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/mini_magick-4.8.0/lib" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.1.0, RVM: ruby-2.4.0) [gem]">
@@ -2118,6 +2170,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/simplecov-html-0.10.0/public" />
       </SOURCES>
     </library>
+    <library name="simplecov-html (v0.10.1, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/simplecov-html-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/simplecov-html-0.10.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/simplecov-html-0.10.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/simplecov-html-0.10.1/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/simplecov-html-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/simplecov-html-0.10.1/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/simplecov-html-0.10.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/simplecov-html-0.10.1/public" />
+      </SOURCES>
+    </library>
     <library name="sinatra (v1.4.8, RVM: ruby-2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/sinatra-1.4.8/lib" />
@@ -2302,6 +2368,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tilt-2.0.7/man" />
+      </SOURCES>
+    </library>
+    <library name="tins (v1.15.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tins-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tins-1.15.0/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tins-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tins-1.15.0/tests" />
       </SOURCES>
     </library>
     <library name="tins (v1.6.0, RVM: ruby-2.4.0) [gem]">
