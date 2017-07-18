@@ -1770,6 +1770,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.4.0/.idea" />
       </SOURCES>
     </library>
+    <library name="NYPD (v0.5.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.5.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.5.0/.idea" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.5.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/NYPD-0.5.0/.idea" />
+      </SOURCES>
+    </library>
     <library name="openssl (v2.0.3, RVM: ruby-2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/openssl-2.0.3/ext" />
